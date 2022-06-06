@@ -25,3 +25,11 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
+<table align="center">
+        <tr>
+            <td>
+                 <a href=""><img src="https://activity-graph.herokuapp.com/graph?username=gregoire-drd&bg_color=0D1117&color=fff&line=d8572a&point=FFFFFF&hide_border=true" /></a>  
+            </td>
+        </tr>
+   </table>
+
